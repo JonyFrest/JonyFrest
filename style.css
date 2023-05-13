@@ -1,0 +1,440 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    cursor: pointer;
+}
+
+/* navigation */
+
+.navbar {
+    position: sticky;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(255, 0, 0);
+
+    background: linear-gradient(black, grey);
+    height: 100px;
+    cursor: pointer;
+}
+
+.navbar p {
+    color: white;
+    cursor: pointer;
+}
+
+.img-link-text {
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.img-link-text img {
+    height: 50px;
+    border-radius: 16px;
+}
+
+.img-link-text p {
+    text-align: center;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.link {
+    display: flex;
+    margin-right: 30px;
+    margin-top: 30px;
+    gap: 40px;
+}
+
+.link a {
+    text-decoration: inherit;
+    font-size: 30px;
+    color: rgb(164, 164, 164);
+    cursor: pointer;
+}
+
+.link a:hover {
+    color: white;
+}
+
+.link a:active {
+    color: rgb(255, 0, 0);
+}
+
+/* end navigation */
+
+/* header */
+
+header {
+    height: 1000px;
+    background-color: rgb(168, 159, 159);
+    
+}
+
+header h3{
+    text-align: center;
+    font-size: 90px;
+    font-family: Bradley Hand, cursive;
+    cursor: pointer;
+}
+
+header p {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+header h4 {
+    text-align: center;
+    font-size: 60px;
+    color: green;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+header img{
+    position: static;
+    margin-left: 100px;
+}
+
+/* header about-me */
+
+.about_me {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(110, 68, 68);
+    
+    height: 540px;
+    cursor: pointer;
+}
+
+.about-me {
+    display: block;
+    margin-top: 100px;
+    border: 1px solid red;
+    border-radius: 16px;
+    height: 200px;
+    color: rgb(255, 255, 255);
+}
+
+.about-me h2 {
+    font-size: 70px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.about-me h3 {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+    margin-block-end: 20px;
+    cursor: pointer;
+}
+
+.about-me p {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.small-head {
+    display: block;
+}
+
+.small-head img {
+    width: 400px;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 60px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.btn button {
+    width: 200px;
+    font: 1em sans-serif;
+    cursor: pointer;
+}
+
+.btn a {
+    text-decoration: inherit;
+    color: rgba(0, 0, 0);
+}
+
+.btn button:hover {
+    background-color: rgb(0, 255, 0);
+}
+
+.about-me_second {
+    display: block;
+    margin-top: 20px;
+    border: 1px solid red;
+    border-radius: 16px;
+}
+
+/* end header about-me */
+
+/* Skill */
+
+.skill {
+    background-color: black;  
+    color: grey;
+    padding-block-end: 20px;
+}
+
+.skill h2 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-block-end: 30px;
+    cursor: pointer;
+}
+
+.html {
+    color: rgb(255, 255, 255);
+    height: 90px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 80px;
+    background-color: rgb(48, 33, 33);
+    cursor: pointer;
+}
+
+.html p {
+    background-color: orange;
+    width: 1600px;
+    border: 1px solid white;
+    border-radius: 16px;
+    padding-left: 40px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.html span {
+    color: black;
+}
+
+.JS {
+    color: rgb(255, 255, 255);
+    height: 90px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 80px;
+    background-color: rgb(48, 33, 33);
+}
+
+.JS p {
+    background-color: yellow;
+    width: 740px;
+    border: 1px solid white;
+    border-radius: 16px;
+    padding-left: 40px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.JS span {
+    color: black;
+}
+
+.css {
+    color: rgb(255, 255, 255);
+    height: 90px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 80px;
+    background-color: rgb(48, 33, 33);
+}
+
+.css p {
+    background-color: rgb(0, 213, 255);
+    width: 1400px;
+    border: 1px solid white;
+    border-radius: 16px;
+    padding-left: 40px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.css span {
+    color: black;
+}
+
+/* end Skill */
+
+/* history */ 
+
+.history{
+    display: block;
+    background-color: rgb(168, 159, 159);
+}
+
+.all-history {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-block-end: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+.all-history img {
+    border-radius: 36px;
+}
+
+.history-one {
+    text-align: center;
+    width: 500px;
+}
+
+.history-one h3 {
+    font-size: 40px;
+}
+
+.history-one p {
+    font-size: 20px;
+    padding-block-end: 30px;
+}
+
+.history-two {
+    text-align: center;
+    width: 500px;
+}
+
+.history-two h3 {
+    font-size: 40px;
+}
+
+.history-two p {
+    font-size: 20px;
+    padding-block-end: 30px;
+}
+
+.history-three {
+    text-align: center;
+    width: 500px;
+}
+
+.history-three h3 {
+    font-size: 40px;
+}
+
+.history-three p {
+    font-size: 20px;
+    padding-block-end: 30px;
+}
+
+/* end histoty */
+
+/* conract */
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-block-end: 50px;
+    padding-left: 50px;
+    background-color: rgb(110, 68, 68);
+    justify-content: space-around 
+}
+
+.contact-info{}
+
+.contact-info span {
+    display: block;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    font-size: 30px;
+    color: white;
+}
+
+.contact-form {
+    font-size: 30px;
+    color: white;
+}
+
+.form {
+    font-size: 20px;
+}
+
+.form-group {}
+
+input {
+    height: 40px;
+    width: 230px;
+    font-size: 20px;
+}
+
+textarea {
+    height: 200px;
+    width: 430px;
+    font-size: 20px;
+}
+
+.btn_primary {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+}
+
+.btn_primary:hover {
+    background-color: rgb(0, 255, 0);
+}
+
+.btn_primary:active{
+    color: red;
+}
+
+/* end contact */
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-block-end: 50px;
+    background-color: rgb(69, 59, 59);
+    color: white;
+}
+
+.social-networks {
+
+}
+
+.social-networks a {
+    text-decoration: inherit;
+    color: rgb(0, 134, 251);
+    font-size: 15px;
+}
+
+.information {
+    color: yellowgreen;
+}
+
+/* end footer */
+
+.end {
+    padding-top: 10px;
+    padding-block-end: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
