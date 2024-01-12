@@ -1,7 +1,7 @@
 # Hi, my name is <a href="#" target="_blank">Zafarbek</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 # 💫 About Me:
-📍 I`m from Uzbekistan🇺🇿; <br> I studu at IT Park <br> I have a certificate 
+📍 I`m from Uzbekistan; <br> I studu at IT Park 💻 <br> I have a certificate ✅
 
 
 ## 🌐 Socials:
