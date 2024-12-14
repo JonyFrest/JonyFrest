@@ -52,6 +52,4 @@
 ## ✨ Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=JonyFrest&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
-> **Tip**: Inline animations make your profile clean and professional!
