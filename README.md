@@ -1,25 +1,7 @@
-# Hi, my name is <a href="#" target="_blank">Jony</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-
-## 💫 About Me:
-📍 I'm from Uzbekistan<br>
-✅ Certified Web-Developer<br>
-💻 Passionate about creating interactive and dynamic web experiences<br>
-📥 Contact: jonyfrestuzb07@gmail.com
-
----
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#jonyfrest) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jonyfrest_?igsh=MWdpbG42OTBwdDg4Yg==)
-
----
-
-## 🖌️ Featured Animations:
-<div align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="3D Cube Animation" width="250px" height="250px">
-  <img src="https://i.gifer.com/A8kg.gif" alt="Code Animation" width="250px" height="250px">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Dynamic Animation" width="250px" height="250px">
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/Jony_frest)
 
 ---
 
