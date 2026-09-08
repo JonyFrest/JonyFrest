@@ -64,7 +64,7 @@ Executive Director / COO @ AbexLab. README должен усиливать им�
 - X / Twitter: `https://x.com/jonyfrest`
 - Email: `Yakubov.Zafarbek@abexlab.uz`
 - hh.uz: `https://hh.uz/resume/8092ff9eff0f49197a0039ed1f674964666d55`
-- LinkedIn: бейдж есть, ссылка пока пустая (`#`). Заполнить, когда владелец пришлёт URL.
+- LinkedIn: `https://www.linkedin.com/in/zafarbek-yakubov-349264435`
 - Счётчик посещений: `visitcount.itsvg.in`, `id=JonyFrest`.
 - Бейджи Discord и Website удалены по просьбе владельца. Не возвращать без запроса.
 
