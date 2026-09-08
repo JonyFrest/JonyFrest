@@ -11,9 +11,9 @@ a football technology ecosystem combining gaming, AI, Web3 and digital economy.
 
 <br/>
 
-[![FootureX](https://img.shields.io/badge/FootureX-Founder_%26_CEO-0A0A0A?style=for-the-badge)](YOUR_FOOTUREX_URL)
-[![AbexLab](https://img.shields.io/badge/AbexLab-Executive_Director-1F2937?style=for-the-badge)](YOUR_ABEXLAB_URL)
-[![Location](https://img.shields.io/badge/Tashkent,_Uzbekistan-374151?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+![FootureX](https://img.shields.io/badge/FootureX-Founder_%26_CEO-0A0A0A?style=for-the-badge)
+![AbexLab](https://img.shields.io/badge/AbexLab-Executive_Director-1F2937?style=for-the-badge)
+![Location](https://img.shields.io/badge/Tashkent,_Uzbekistan-374151?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -58,8 +58,6 @@ Telegram Web App as the entry point and a **$FOOTX** ecosystem as the economic l
 
 **Status:** the project is in active development. The table above describes the product concept and roadmap,
 not a list of features already in production.
-
-<!-- Add FootureX links here: website, Telegram channel, bot, docs, pitch -->
 
 <br/>
 
@@ -136,17 +134,19 @@ IT / digital development company. Previously led projects as a Project Manager, 
 
 ## Selected Projects
 
-| Project | Role / Context | Description |
-|---------|----------------|-------------|
-| **FootureX** | Founder & CEO | Football technology ecosystem: simulator, digital economy, community, AI and Web3 layers. Telegram Web App, $FOOTX ecosystem. In development. |
-| **Makro** | AbexLab · management | <!-- Add project details here --> `[Add project description]` |
-| **RGCA CRM Integration** | AbexLab · management | CRM integration project. <!-- Add project details here --> `[Add project description]` |
-| **Makro Go** | AbexLab · management | <!-- Add project details here --> `[Add project description]` |
-| **PsyEco** | AbexLab · management | <!-- Add project details here --> `[Add project description]` |
-| **Loialte** | AbexLab · management | <!-- Add project details here --> `[Add project description]` |
-| **FixLeo** | AbexLab · management | <!-- Add project details here --> `[Add project description]` |
+| Project | Role / Context |
+|---------|----------------|
+| **FootureX** | Founder & CEO. Football technology ecosystem: simulator, digital economy, community, AI and Web3 layers. Telegram Web App, $FOOTX ecosystem. In development. |
+| **Makro** | AbexLab · management |
+| **RGCA CRM Integration** | AbexLab · management |
+| **Makro Go** | AbexLab · management |
+| **PsyEco** | AbexLab · management |
+| **Loialte** | AbexLab · management |
+| **FixLeo** | AbexLab · management |
 
-<!-- Client projects are described at a high level only. No confidential technical or commercial details are published here. -->
+Project details and full work history: [hh.uz profile](YOUR_HH_URL)
+
+<!-- Client projects are listed at a high level only. No confidential technical or commercial details are published here. -->
 
 <br/>
 
@@ -177,12 +177,10 @@ IT / digital development company. Previously led projects as a Project Manager, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) <!-- LinkedIn: add URL later -->
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jony_frest)
-[![X](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#jonyfrest)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Website](https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
+[![X](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jonyfrest)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yakubov.Zafarbek@abexlab.uz)
 
 <br/>
 
