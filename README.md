@@ -144,7 +144,7 @@ IT / digital development company. Previously led projects as a Project Manager, 
 | **Loialte** | AbexLab · management |
 | **FixLeo** | AbexLab · management |
 
-Project details and full work history: [hh.uz profile](YOUR_HH_URL)
+Project details and full work history: [hh.uz profile](https://hh.uz/resume/8092ff9eff0f49197a0039ed1f674964666d55)
 
 <!-- Client projects are listed at a high level only. No confidential technical or commercial details are published here. -->
 
