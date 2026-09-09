@@ -142,7 +142,9 @@ IT / digital development company. Previously led projects as a Project Manager, 
 | **Makro Go** | AbexLab · management |
 | **PsyEco** | AbexLab · management |
 | **Loialte** | AbexLab · management |
-| **FixLeo** | AbexLab · management |
+| **Akbayer** | AbexLab · management |
+| **Uzvtorcvetmet** | AbexLab · management |
+| **Uzinvestloyiha** | AbexLab · management |
 
 Project details and full work history: [hh.uz profile](https://hh.uz/resume/8092ff9eff0f49197a0039ed1f674964666d55)
 
