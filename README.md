@@ -51,7 +51,7 @@ Telegram Web App as the entry point and a **$FOOTX** ecosystem as the economic l
 | **Economy** | Digital football economy, marketplace, digital assets |
 | **Community** | Community mechanics, social and competitive layers |
 | **AI** | AI-powered functionality inside the product |
-| **Web3** | Web3 infrastructure, TON ecosystem, $FOOTX ecosystem |
+| **Web3** | Web3 infrastructure, TON ecosystem, $wFTX ecosystem |
 | **Platform** | Telegram Web App |
 
 **My role:** Founder & CEO. Product vision, strategy, roadmap, team and business development.
