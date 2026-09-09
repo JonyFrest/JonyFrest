@@ -139,7 +139,7 @@ IT / digital development company. Previously led projects as a Project Manager, 
 | **FootureX** | Founder & CEO. Football technology ecosystem: simulator, digital economy, community, AI and Web3 layers. Telegram Web App, $wFTX ecosystem. In development. |
 | **Makro** | AbexLab · management |
 | **RGCA CRM Integration** | AbexLab · management |
-| **Makro Go** | AbexLab · management |
+| **Bochka Go** | AbexLab · management |
 | **PsyEco** | AbexLab · management |
 | **Loialte** | AbexLab · management |
 | **Akbayer** | AbexLab · management |
